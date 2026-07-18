@@ -8,9 +8,13 @@
 
 ## Десктопное приложение
 
-<img width="1822" height="1098" alt="Screenshot 2026-07-18 at 19 59 49" src="https://github.com/user-attachments/assets/5363339c-5b0d-4a4d-a7f3-20060ccb3e4e" />
+
 
 <img width="1822" height="1098" alt="Screenshot 2026-07-18 at 20 00 13" src="https://github.com/user-attachments/assets/d312010f-3eb2-4d71-8fd7-ade265272721" />
+
+<img width="1822" height="1099" alt="Screenshot 2026-07-18 at 20 54 56" src="https://github.com/user-attachments/assets/ee9a1016-284e-4740-89fb-a18f291cdff6" />
+
+<img width="1822" height="1098" alt="Screenshot 2026-07-18 at 21 45 58" src="https://github.com/user-attachments/assets/28c95a76-4086-4501-9af6-737bb50ac51c" />
 
 ## Как верхнеуровнево работает взаимодействие агентов и поискового ядра AKS 
 
